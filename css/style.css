@@ -1,0 +1,11 @@
+
+
+.black{
+font-family: 'Inconsolata', monospace;
+text-align: center;
+}
+.images{
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+}
